@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayr:home|Door43 (ayr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayr|d43-ayr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayr/archive/master.zip|d43-ayr.zip]]
+
+**Recent Changes**
+{{changes>ns = ayr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayr|Ethnologue data]]
+
